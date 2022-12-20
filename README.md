@@ -30,8 +30,10 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
  pip install bs4
  pkg install git 
  git clone https://github.com/RJ-Shuvo/AUTO-SHARE
+
 #### RUN SCRIPT
 ```python
+
  cd AUTO-SHARE
  python RJ-AUTO-SHARE.py
 ```
